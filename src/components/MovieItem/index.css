@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.slider-container {
+  padding: 25px;
+  color: black;
+}
+.movie-button {
+  background-color: transparent;
+  border-style: none;
+}
+.close-container {
+  text-align: end;
+}
+.close-button {
+  background-color: transparent;
+  border-style: none;
+  border-width: 0px;
+  color: #ffffff;
+}
